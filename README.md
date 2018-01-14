@@ -1,4 +1,4 @@
-# IndecisionApp
+# React Boilerplate v2
 
 ## to start
 
